@@ -1,0 +1,40 @@
+
+* Notre Dame's Chappelle
+
+When we learned about Notre Dame's fire yesterday, our guts felt liked we had just learn about the loss of someone close. However, that's how history works, and now, after the 850 years of splendor, She's survived what will be known for many more centuries as the Fire of 2019.
+
+A question one might ask is as follows: should the damaged part of the cathedral be rebuilt as closely as possible to what it was like based on what the budget will allow for, or should we enhence this part of the structure. What is for sure is that everyone has already agreed to rebuild it as it was (consiously or unconsiously) such that there already is conscensus on this. An alternative design should be considered ONLY if it were instantly obvious to everyone that it is a better design for the Cathedral, Paris, France, and the world.
+
+If one were to think of an alternative design, it should be in the spirit of what the original architects, macons and builder would have liked to build but that their technology did not allow for. In particular, the goal of gothic architecture was to increase the surface area of stained glass windows. This can be clearly seen on my favorite building in the world, the Sainte Chappelle in Paris. But you notice that in the chappelle, only the roof is lacking stained glass. One could think that it is in fact because they were not able to build it with their knowledge of construction.
+
+[[./sainte_chapelle.jpg]]
+
+Going back to Notre Dame, it is in fact the roof that burned. One could argue that the roof was the least impressive part of the structure and built this way as a pure need for a roof. As a design exercise, and as food for thoughts', we tried to find a renovation of Notre Dame's roof that would impress the Cathedral builders of the time. In particular, had they not needed a massive wood frame to support the roof, would they have thought of adding an Upper Cappel under the roof? Our design leverages the fact that a new roof could be constructed without the need to replace the wooden roof frame that burned since our civil engineers are now fully aware of Newton's laws. This would liberate much room to extend the cathedral's useful space, and unlock one of the best possible view on the City of Lights, while remaining highly spiritual - hence an Upper Chappel.
+
+Here are a few pictures, this project is collaborative and open source, that is, all contributions are welcomed and encouraged (Blender files to come in the next few hours).
+
+- Jacques & Thomas
+
+** Outside
+   
+[[./outsido_dark.jpg]]
+
+** Inside
+   
+s[[./inside.jpg]]s
+
+** Top
+
+[[./top.png]]
+
+
+
+
+
+
+
+
+
+
+
+
