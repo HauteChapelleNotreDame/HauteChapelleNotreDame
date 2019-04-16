@@ -27,7 +27,9 @@ s[[./inside.jpg]]s
 
 [[./top.png]]
 
+** Model
 
+[[./maquette.png]]
 
 
 
